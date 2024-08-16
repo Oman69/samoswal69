@@ -1,0 +1,5 @@
+User-agent: *
+Allow: *
+Disallow: */quiz
+
+Host: https://otoplenie-doma69.ru

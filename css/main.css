@@ -296,9 +296,9 @@ form {
 }
 
 .Projects {
-  padding: 150px 0 170px 0;
+  padding-top: 150px;
   text-align: center;
-  background-color: #EDEDED;
+  /* background-color: #EDEDED; */
 }
 .Projects .description {
   max-width: 50%;

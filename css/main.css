@@ -46,6 +46,11 @@ form {
 .acent_color {
   color: #ffc107;
 }
+
+.dropdown-menu[data-bs-popper] {
+  left: 80%;
+}
+
 .main_offer {
   height: 100%;
   background-size: cover;
